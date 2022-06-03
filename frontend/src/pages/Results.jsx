@@ -48,10 +48,8 @@ function Results() {
             bgImage={emptyResults}
             backgroundRepeat="no-repeat"
             w="100vw"
-            overflowX=""
             h={{ base: "60vh", "2xl": "90vh" }}
             filter="auto"
-            bgRepeat="no-repeat"
             bgSize={{ base: "cover", "2xl": "110% 100%" }}
             bgPosition="center"
             gap={{ base: "2", sm: "10" }}
