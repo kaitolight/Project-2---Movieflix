@@ -12,4 +12,4 @@ Marc Lantol - https://github.com/moumax /
 
 Julie Combeau - https://github.com/JulieCombeau / https://www.linkedin.com/in/julie-combeau/
 
-Robin Renée - https://github.com/Robz53 /
+Robin Renée - https://github.com/Robz53 / https://www.linkedin.com/in/robin-ren%C3%A9e-119567232/
