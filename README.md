@@ -8,8 +8,8 @@ This project was coded with JS Vanilla, React and Chakra UI.
 
 Marie Serradori - https://github.com/Pyramate / https://www.linkedin.com/in/marie-serradori-2aa91758/
 
-Marc Lantol - 
+Marc Lantol - https://github.com/moumax / 
 
 Julie Combeau - https://github.com/JulieCombeau / https://www.linkedin.com/in/julie-combeau/
 
-Robin Renée -
+Robin Renée - https://github.com/Robz53 /
