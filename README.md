@@ -6,10 +6,10 @@ This project was coded with JS Vanilla, React and Chakra UI.
 
 ## Collaborators 
 
-#Marie Serradori - https://github.com/Pyramate / https://www.linkedin.com/in/marie-serradori-2aa91758/
+Marie Serradori - https://github.com/Pyramate / https://www.linkedin.com/in/marie-serradori-2aa91758/
 
 Marc Lantol - 
 
-Julie Combeau - 
+Julie Combeau - https://github.com/JulieCombeau / https://www.linkedin.com/in/julie-combeau/
 
 Robin Renée -
